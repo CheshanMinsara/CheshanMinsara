@@ -45,5 +45,13 @@
 ---
 
 <p align="center">
+  <a href="https://paypal.me/CheshanMin">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
   <i>Always learning, always building.</i>
 </p>
